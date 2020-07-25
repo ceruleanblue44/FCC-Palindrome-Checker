@@ -1,5 +1,3 @@
-# FCC-Palindrome-Checker
-
 ## JavaScript Algorithms and Data Structures
 
 ### Project 1: Palindrome Checker
